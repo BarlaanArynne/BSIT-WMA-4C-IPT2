@@ -8,7 +8,7 @@ const sendMessageToMe = async ({ email, message }) => {
 
     /** @type {nodemailer.Options} */
     const mailData = {
-        from: 'Portfolio Website <portfolio-website@gmail.com>',
+        from: 'Jayz Website <jayzo-website@gmail.com>',
         to: process.env.MY_EMAIL,
         subject: 'Recieved a message from your portfolio website',
         text: mailTempltePlainText({ email, message }),
