@@ -8,7 +8,7 @@ const sendMessageToMe = async ({ email, message }) => {
 
     /** @type {nodemailer.Options} */
     const mailData = {
-        from: 'Jayz Website <jayzo-website@gmail.com>',
+        from: 'Jayz Website <danzelle2424@gmail.com>',
         to: process.env.MY_EMAIL,
         subject: 'Recieved a message from your portfolio website',
         text: mailTempltePlainText({ email, message }),
@@ -40,7 +40,7 @@ const dateFormatter = new Intl.DateTimeFormat('en-US', {
     hour: 'numeric',
     minute: 'numeric',
     second: 'numeric',
-    timeZone: 'Asia/Kolkata', // India time zone
+    timeZone: 'Asia/Manila', // Ph time zone
     timeZoneName: 'short',
 });
 

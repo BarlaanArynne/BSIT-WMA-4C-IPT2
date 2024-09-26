@@ -28,8 +28,8 @@ const Home = () => {
                 <About />
                 <Experience />
                 <Projects />
-                {/* <Contact>
-                </Contact> */}
+                {<Contact>
+                </Contact> }
                 <Footer />
             </main>
         </Fragment>

@@ -96,7 +96,7 @@ const successfullResponse = data => `The message has been successfully sent
 ${data}`;
 
 const errorResponse = error => `The message could not be sent
-If you would like to contact me, please send an email to 125aryaaman@gmail.com
+If you would like to contact me, please send an email to danzelle2424@gmail.com
 ${error}`;
 
 const useStyles = makeStyles((theme) => ({

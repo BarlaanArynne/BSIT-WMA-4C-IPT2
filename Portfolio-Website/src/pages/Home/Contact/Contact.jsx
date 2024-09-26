@@ -4,7 +4,7 @@ import SectionHeading from '../../../components/SectionHeading/SectionHeading';
 import EarthCanvas from '../../../components/EarthCanvas/EarthCanvas';
 import Form from './Form/Form';
 import StarBackgroundImage from './StarBackgroundImage/StarBackgroundImage';
-// import StarsCanvas from '../../../components/StarCanvas/StarCanvas';
+import StarsCanvas from '../../../components/StarCanvas/StarCanvas';
 
 const Contact = ({ children }) => {
     return (
@@ -17,7 +17,7 @@ const Contact = ({ children }) => {
                 <Form className={styles.dsizeF} />
                 <EarthCanvas className={styles.dsizeE} />
             </div>
-            {/* <StarsCanvas /> */}
+            {<StarsCanvas />}
             <StarBackgroundImage />
             {children}
         </section>

@@ -1,10 +1,6 @@
-# Portfolio Website - Aman Arya
+# Portfolio Website - Jayzelle Dan
 
-<b>Visit [Am4nn/Portfolio-Nextjs-Website](https://github.com/Am4nn/Portfolio-Nextjs-Website) github repository for the updated portfolio made using Nextjs:14 </b>
-
-Welcome to my portfolio website built with ReactJS, Three.js, and hosted on Vercel with a custom domain [react.amanarya.com](https://react.amanarya.com)
-
-![Portfolio Screenshot](public/preview.png)
+<b>Visit (https://github.com/Am4nn/Portfolio-Nextjs-Website) github repository for the updated portfolio made using Nextjs:14 </b>
 
 ## Overview
 
@@ -47,8 +43,6 @@ To run this project locally, follow these steps:
 - Three.js: Three.js is used for 3D graphics rendering, adding a visually appealing aspect to the portfolio
 
 - Serverless API: The website uses a serverless function hosted on Vercel to handle form submissions and send emails using Nodemailer
-
-- Custom Domain: The portfolio is hosted on a custom domain, [react.amanarya.com](https://react.amanarya.com)
 
 ## Contact
 
