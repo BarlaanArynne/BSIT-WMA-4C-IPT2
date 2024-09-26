@@ -1,7 +1,4 @@
 # Portfolio Website - Jayzelle Dan
-
-<b>Visit (https://github.com/Am4nn/Portfolio-Nextjs-Website) github repository for the updated portfolio made using Nextjs:14 </b>
-
 ## Overview
 
 This project showcases my portfolio and allows visitors to view my work and send me messages directly through the website.
@@ -10,10 +7,11 @@ This project showcases my portfolio and allows visitors to view my work and send
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1. Go to the directory:
 
    ```bash
-   git clone https://github.com/Am4nn/Portfolio-Website.git
+   cd Desktop
+   cd Portfolio-Website
    ```
 
 2. Navigate to the project directory:
