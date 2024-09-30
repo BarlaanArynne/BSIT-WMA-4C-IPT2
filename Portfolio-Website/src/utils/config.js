@@ -4,7 +4,7 @@ export const hashRoutes = [
     ["Certificate", "/#experience"],
     ["Projects", "/#projects"],
     ["Contact", "/#contact"],
-    ["Resume", "/resume.pdf"]
+    // ["Resume", "/resume.pdf"]
 ];
 
 export const sections = hashRoutes.map(route => route[0].toLowerCase());
@@ -17,7 +17,7 @@ export const introAnimatedText = [
     "Jailbreaker"
 ];
 export const myName = "Jayzelle Dan";
-export const shortDescription = "Student Developer";
+export const shortDescription = "Junior Programmer";
 
 export const socialMediaDetails = [
     {
