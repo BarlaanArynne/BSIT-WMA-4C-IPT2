@@ -1,8 +1,0 @@
-.vscode
-.vercel
-
-.env
-node_modules
-build
-
-fonts-used.txt
