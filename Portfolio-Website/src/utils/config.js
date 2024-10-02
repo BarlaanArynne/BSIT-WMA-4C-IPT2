@@ -55,6 +55,10 @@ export const skills = [
         name: "Tools/Software/Others",
         items: ["Git", "Github", "VSCode", "IntellijIdea", "Docker", "Postman", "OpenGL", "Other"],
     },
+    {
+        name: "Favorite Filipino Dishes",
+        items: ["Adobo", "Darubo", "Etag", "Pakbet", "Pinapaitan", "Poqui-Poqui", "Warek-Warek"],
+    },
 ];
 
 export const experiences = [
